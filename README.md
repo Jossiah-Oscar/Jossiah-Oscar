@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jossiah-Oscar
-- 👀 I’m interested in Mobile Development 
+- 👀 I’m interested in Mobile Development and DevOps
 - 🌱 I’m currently working with Flutter 
 - 💞️ I’m looking to collaborate on Mobile apps
 - 📫 How to reach me Jossiahoscar@gmail.com
